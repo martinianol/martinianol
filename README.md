@@ -4,6 +4,7 @@
 **martinianol/martinianol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Digital House integrate project with @ and @
 - 🌱 I’m currently learning Fullstack Developer
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 🌎 Languages: Spanish, English, Portuguese
+
