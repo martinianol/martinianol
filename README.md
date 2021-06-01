@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Digital House integrate project with @ and @
+- 🔭 I’m currently working on Digital House integrate project with @gonzaggb and @
 - 🌱 I’m currently learning Fullstack Developer
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
