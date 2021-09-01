@@ -6,13 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Digital House integrate project with @gonzaggb and @
-- 🌱 I’m currently learning Fullstack Developer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently developing my React skills with CodeCademy
+- 🌱 I have finished Fullstack Developer course at Digital House
+- 👯 I’m looking to collaborate on Full Stack projects.
+- 📫 How to reach me: mars.leguizamon@gmail.com // +54 9 11 4084 7023
+- 😄 Nickname: Mars
+- ⚡ Fun fact: I can tell where, when and who won each world cup since 1930
 - 🌎 Languages: Spanish, English, Portuguese
 
