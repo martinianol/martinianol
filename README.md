@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working at Blue Alba and developing my FE skilss with Frontend Mentor.
+- 🔭 I’m currently working at Blue Alba and developing my FE skills with Frontend Mentor.
 - 🌱 I have finished Fullstack Developer course at Digital House
 - 👯 I’m looking to collaborate on Full Stack projects.
 - 📫 How to reach me: mars.leguizamon@gmail.com // +54 9 11 4084 7023
